@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4266717706433243127
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.897
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.846
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.43216455
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.9017948
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 128.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      propertyPath: m_Name
+      value: CPU Cooler
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      insertIndex: 2
+      addedObject: {fileID: 3631530545420998713}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 509627821517029958}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1921168245458068230}
+  m_SourcePrefab: {fileID: 100100000, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+--- !u!1 &4032697437433862822 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aff85ddcdba0ef64f8c47b1da53a5cdd, type: 3}
+  m_PrefabInstance: {fileID: 4266717706433243127}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3631530545420998713
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4032697437433862822}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 2
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.5109616, y: 0.44219208, z: 0.78245205}
+  m_Center: {x: -0.0018129052, y: 0.008675784, z: 0.0068264157}
+--- !u!114 &509627821517029958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4032697437433862822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc38259f80744da13d3052e535a79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAttached: 0
+  mainCamera: {fileID: 0}
+  distanceFromCamera: 1
+  newPosition1: {fileID: 0}
+  newPosition2: {fileID: 0}
+  followSpeed: 10
+  newRotationWhileDragging: {x: 0, y: 0, z: 0}
+  position1Offset: {x: -0.04, y: 0.2, z: 0.04}
+  position2Offset: {x: -0.04, y: 0.12, z: 0.04}
+  newOriginalRotation: {x: 90, y: 90, z: 0}
+  targetTag: Zone
+  col: {fileID: 0}
+  isHolding: 0
+  attachableComponents: []
+  rotatingByTouch: 0
+  autoRotating: 0
+  button: {fileID: 0}
+  animators: []
+  targetComponent:
+    serializedVersion: 2
+    m_Bits: 520
+  standFunction: {fileID: 0}
+  newStandRotation: {x: 0, y: 0, z: 0}
+  outline: {fileID: 1921168245458068230}
+  standLayer:
+    serializedVersion: 2
+    m_Bits: 16384
+  TargetsComponentManager:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  newPositionCPU: {x: 0, y: 0, z: 0}
+  newRotationCPU: {x: 0, y: 0, z: 0}
+  inCPU: 0
+  newPositionGPU: {x: 0, y: 0, z: 0}
+  newRotationGPU: {x: 0, y: 0, z: 0}
+  inGPU: 0
+  newPositionRAM: {x: 0, y: 0, z: 0}
+  newRotationRAM: {x: 0, y: 0, z: 0}
+  inRAM: 0
+  newPositionM2: {x: 0, y: 0, z: 0}
+  newRotationM2: {x: 0, y: 0, z: 0}
+  inM2: 0
+  spark: {fileID: 8864086462319199565, guid: 6f2ab7708460cd34a8a21b59d862f464, type: 3}
+  descriptionText: 'Name: Standard CPU Air Cooler
+
+
+    Purpose: Keeps the CPU at
+    optimal temperatures during gaming and intensive tasks
+
+
+    Key Features:
+
+    Large
+    heatsink with multiple heat pipes for efficient cooling.
+
+    High-performance
+    fan for airflow and noise reduction.
+
+    Compatible with most Intel and AMD
+    CPUs.
+
+    Simple installation and reliable temperature management.
+
+
+    Description:
+
+    The
+    CPU Cooler ensures your processor stays cool and performs optimally during heavy
+    gaming or multitasking. With a robust heatsink and quiet fan, it efficiently
+    dissipates heat, protecting your CPU and maintaining system stability.
+
+
+'
+  textSize: 12
+  thisObjectAttachedTo: {fileID: 0}
+  highlightTarget:
+    serializedVersion: 2
+    m_Bits: 512
+--- !u!114 &1921168245458068230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4032697437433862822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 1

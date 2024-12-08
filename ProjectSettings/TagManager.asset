@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Board
+  - Case
+  - Zone
+  - PSU
+  - CASEO
+  - Screw
+  - Box
+  - Paper
+  - CPU Cooler
+  - Prime
+  - USB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Board
+  - Water
+  - UI
+  - nbn
+  - CPU
+  - Post Process
+  - zone
+  - PSU
+  - Case
+  - Component
+  - SphereLayer
+  - Stand Layer
+  - Screw
+  - Fastened Screw
+  - Glass
+  - Plug Zone
+  - Socket
+  - Static
+  - CPU Cooler
+  - Prime
+  - Prime Target
+  - Prime Target Case
+  - HDMI Socket
+  - Keyboard
+  - Mouse
+  - Monitor
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
